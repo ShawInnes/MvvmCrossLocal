@@ -5,6 +5,8 @@ using System.Globalization;
 using System.Threading;
 using System.ComponentModel;
 using System.Linq;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace MvvmCrossLocal.Core.ViewModels
 {
@@ -24,7 +26,7 @@ namespace MvvmCrossLocal.Core.ViewModels
 
         public void SetCultureCommand()
         {
-            string[] cultures = new string[] { "en-AU", "ja", "es-ES", "es-BO" };
+            string[] cultures = new string[] { "en-AU", "ps-AF", "he-IL", "ja", "es-ES", "es-BO", "es-PE" };
 
             CultureInfo culture;
 

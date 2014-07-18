@@ -145,6 +145,10 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
+    <Resource Include="TextResources\he\Shared.json" />
+    <Resource Include="TextResources\he\FirstViewModel.json" />
+    <Resource Include="TextResources\ps\Shared.json" />
+    <Resource Include="TextResources\ps\FirstViewModel.json" />
     <Resource Include="TextResources\ja\Shared.json" />
     <Resource Include="TextResources\ja\FirstViewModel.json" />
     <Resource Include="TextResources\Shared.json" />
